@@ -1,0 +1,45 @@
+
+body{
+    background-image: url("https://i.pinimg.com/564x/9d/5b/c6/9d5bc648f11bddface5c4483acbef57b.jpg");
+    width: 50%;
+    height: 755px;
+    background-size: cover;
+    background-position: center;
+
+}
+h1{
+    color: burlywood;
+}
+.img
+{
+    float: right;
+    padding: 15px;
+
+}
+.p{
+    font-size: 20px;
+    font-style:normal;
+    font-family: sans-serif;
+    text-align: left;
+    color: azure;
+    padding: 15px;
+
+}
+#shri{
+    float: left;
+    padding: 15px;
+}
+
+#kittu{
+    float: right;
+    padding: 10px;
+    margin-bottom: 25px;
+}
+.kittu1{
+    font-size: 20px;
+    font-style: normal;
+    font-family: sans-serif;
+    text-align: left;
+    color: azure;
+    padding: 10px;
+}
